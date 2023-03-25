@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4aBFJXX1/0lp5Gf3hucI4scqQB0HGFSCU221w+sVFUJBj7zJusc6V9T8tpTb7RVF7UY5BuCKlRXunHHfXtlylA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\famil\\Documents\\CodeRDIversity - RDI\\CodeRDIversity - RDI - Aula 20\\CodeRDIversity - My Book Library Oficial\\RDIMyBookLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\famil\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.14\\microsoft.netcore.app.host.win-x86.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
